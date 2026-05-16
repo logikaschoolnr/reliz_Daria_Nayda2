@@ -52,10 +52,8 @@ body{
      transform: scale(2);
 transition: all 2s ease-in-out;
 }
-.grib{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-}
+/*
+
 body{
     background-color:  #F56447;
 }
